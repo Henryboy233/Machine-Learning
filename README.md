@@ -11,4 +11,4 @@ is a small dataset suitable for regression.
 ## Project 3
 An Abalone dataset is available in the UCI Machine Learning Repository website below: https://archive.ics.uci.edu/ml/datasets/Abalone
 ## Project 4
-CIFAR-10 can be downloaded from the website: https://www.cs.toronto.edu/∼kriz/cifar.html which covers very clear description about the dataset.
+CIFAR-10 can be downloaded from the website: [https://www.cs.toronto.edu/∼kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html) which covers very clear description about the dataset.
