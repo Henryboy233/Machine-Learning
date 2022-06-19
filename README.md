@@ -1,6 +1,5 @@
 # Machine-Learning
-Machine Learning
-Three projects completed by Henry Liu while participating in CITS 5508 Machine Learning are recorded.
+Machine Learning projects completed by Henry Liu while participating in CITS 5508 Machine Learning are recorded.
 
 ## Project 1
 Forest type mapping dataset on the UCI Machine Learning website:
